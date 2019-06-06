@@ -46,7 +46,7 @@ changelog.with {
 //*****************************************************************************************
 
 //tag::confluenceConfig[]
-//Configureation for publishToConfluence
+//Configuration for publishToConfluence
 
 confluence = [:]
 
